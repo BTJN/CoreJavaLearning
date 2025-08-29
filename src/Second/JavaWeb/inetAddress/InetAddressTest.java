@@ -3,7 +3,7 @@ package Second.JavaWeb.inetAddress;
 import java.io.*;
 import java.net.*;
 
-public class inetAddressTest {
+public class InetAddressTest {
 
     public static void main(String[] args) throws IOException{
         if (args.length > 0)
